@@ -1,2 +1,0 @@
-# beautyify
-beauty makes confident
